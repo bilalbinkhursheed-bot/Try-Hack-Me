@@ -27,3 +27,13 @@ This repository is dedicated to documenting the hands-on technical labs, concept
 3. **Cloud Security Engineer:** Master secure cloud deployments (AWS/Azure) and Infrastructure as Code (Terraform).
 
 
+---
+
+## 💻 Custom Projects & Secure Code Implementations
+
+### 📁 Lab: Bilal's Retail Audit Tool (Written in C)
+*   **Concepts Exercised:** Volatile array initializations, programmatic conditional branches (`if/else`), boolean validation state tracking, and string memory evaluations via `string.h`.
+*   **Security Integration:** Hardened terminal input boundaries against malicious memory corruption by utilizing bounded `fgets()` streams instead of dangerous `gets()` routines. This directly prevents execution hijack vectors like Buffer Overflows at the hardware layer.
+
+
+

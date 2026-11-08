@@ -6,7 +6,6 @@ This repository is dedicated to documenting the hands-on technical labs, concept
 ## 🎯 Current Objectives & Progress
 *   [ ] **Pre-Security Pathway (TryHackMe)** — *In Progress (Focusing on Operating Systems)*
 *   [ ] **SOC Analyst Level 1 Pathway (TryHackMe)** — *Upcoming*
-*   [ ] **Microsoft IT Support Specialist Program** — *In Progress*
 
 ---
 
